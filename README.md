@@ -4,7 +4,7 @@
 ## Do que se trata esse projeto
 
 
-Este projeto foi desenvolvido durante minha formação no módulo de back-end na Trybe. A aplicação se trata de uma loja de itens medievais, esta API serviu para pôr em prática a criação de uma API REST utilizando TypeScript e um aprofundamento maior em tecnologias de segurança como bcript que foi utilizado para criptografia de informações sensíveis.
+Este projeto foi desenvolvido durante minha formação no módulo de back-end na [Trybe](https://www.betrybe.com/). A aplicação se trata de uma loja de itens medievais, esta API serviu para pôr em prática a criação de uma API REST utilizando TypeScript e um aprofundamento maior em tecnologias de segurança como bcript que foi utilizado para criptografia de informações sensíveis.
 
 
 ## Principais linguagens e tecnologias utilizadas

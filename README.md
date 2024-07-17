@@ -24,9 +24,9 @@ Este projeto foi desenvolvido durante minha formação no módulo de back-end na
 ### Pré-requisitos
 
 
-- **Node.js** (versão X.X.X)
-- **npm** (versão X.X.X)
-- **Docker**
+- **Node.js** (versão 18.3.1 ou superior)
+- **npm** (versão 10.8.1)
+- **Docker** (versão 27.0.3)
 
 
 ### Instalação
